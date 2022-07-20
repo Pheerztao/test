@@ -1,0 +1,71 @@
+/* #p1{
+ padding-left: 70px;
+ font-size: 20px;
+}
+
+#p2{
+ padding-left: 450px;
+}
+
+#block1{
+ display: flex;
+ background-size: 200px;
+ background-color: aqua;
+} */
+body{
+ background-color: black;
+}
+#but1{
+ border-radius: 20px;
+ color: grey;
+}
+
+.drkgreen{
+  background-color: green;
+  height: 150px; width: 150px;
+}
+
+.green{
+  background-color: greenyellow;
+  height: 150px; width: 150px;
+}
+
+.yellow{
+ background-color: yellow;
+ height: 150px; width: 150px;
+}
+
+.orange{
+ background-color: orange;
+ height: 150px; width: 150px;
+}
+
+.red{
+ background-color: red;
+ height: 150px; width: 150px;
+}
+
+*{
+ color: white;
+}
+ #cont{
+ display: flex;
+ flex-direction: row-reverse;
+ padding-right: 550px;
+} 
+
+.den{
+ padding-left: 80px;
+}
+
+.lit{
+ padding-left: 90px;
+} 
+
+.ren{
+ padding-left:80px ;
+}
+
+.set{
+ padding-left: 80px;
+}
